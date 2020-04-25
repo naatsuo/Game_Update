@@ -7,7 +7,7 @@ guilds.txt,ebb189223e805cab894a9d28077d7b01
 InitItem.bin,bb89a8d514d30b39d3e21e1f24d09fa2
 itemhelp.dat,f0645cc2acaf29668d7fb402edcfb83b
 itemicon.bin,785e1e82d5933486ee758e8a80ad4943
-ItemList.bin,6c3ec10aed175473c7ca5c66172ffde6
+ItemList.bin,591001e8b1850aed785a563713161783
 Itemname.bin,a5cc5debb3c48ce5bbbe0f78221530e2
 jlock101.sys,4037601c6a59324bb298a4a21cda09d9
 jlock101.VXD,b4774ab80d71883abff981402cef6161
@@ -38,7 +38,7 @@ skeltonmt.msa,1778068aeb0f30204fcdcbc4509f95fe
 SkillData.bin,e32aa37e656de37781ddce03a5978542
 sn.bin,2e6cb96e9b5269394154d91e93eb3d91
 sound.txt,8210e1adf2efad9b4c28f5b5147c5716
-WPatch.dll,d3021e06c671bad9dca152741091e8c3
+WPatch.dll,d0a2cb479f9b3b8f1fca4bb6673ac33a
 WYD.exe,ee403e415dbb652d0dc5f231f578779a
 WYD.log,03603afb35601c0c26cf596fa3d3224c
 Effect\ankh01.msa,be8ba993aeeb23ee9ec1630a93bb2703
