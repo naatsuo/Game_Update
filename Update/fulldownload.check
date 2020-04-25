@@ -3,7 +3,6 @@ cdata.bin
 Config.bin
 curse.bin
 extraitem.bin
-guilds.txt
 InitItem.bin
 itemhelp.dat
 itemicon.bin
@@ -15,8 +14,6 @@ jlock102.sys
 jlock102.VXD
 JPGLib.dll
 JProtectDll.dll
-Launcher.bmp
-Launcher.hat
 minimap.dat
 Mixhelp.dat
 Mixlist.bin
